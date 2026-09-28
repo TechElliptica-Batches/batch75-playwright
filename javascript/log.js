@@ -10,3 +10,5 @@ console.log(10 + 40 + "20"+ (30 + 40)); // 50203040
 // 
 // until i am not getting any string, i will behave like arithmatic add
 
+
+https://www.google.com/search?q=msdhoni
